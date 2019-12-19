@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1576778329928" clover="3.2.0">
-  <project timestamp="1576778329928" name="All files">
+<coverage generated="1576781680312" clover="3.2.0">
+  <project timestamp="1576781680312" name="All files">
     <metrics statements="8" coveredstatements="8" conditionals="0" coveredconditionals="0" methods="9" coveredmethods="9" elements="17" coveredelements="17" complexity="0" loc="8" ncloc="8" packages="1" files="2" classes="2"/>
     <file name="cart.js" path="/home/f1del/hexlet/jest/src/cart.js">
       <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="6" coveredmethods="6"/>
